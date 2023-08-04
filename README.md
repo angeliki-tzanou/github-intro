@@ -5,5 +5,3 @@ example repo for HHA 506
 this is some more example test
 
 
-### chapter
-this is more
